@@ -1,0 +1,41 @@
+/* .navbar{
+
+    position:absolute;
+    top:0;
+}  */
+
+.navbar-nav{
+   
+    padding-left: 300px;
+}
+.navbar-nav li{
+    margin-left: 32px;
+    padding-top: 20px;
+    font-weight: 400;
+}
+.navbar-nav li a{
+    color:black ;
+}
+.icon{
+    margin-left: 400px;
+}
+ .icon i{
+    margin-top:28px;
+    margin-left: 28px;
+    font-size: 25px;
+
+
+} 
+.icon a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+/* #look::after{
+    position:absolute;
+    content:" ";
+    height:2px;
+    width:50%;
+    color:black;
+} */
+

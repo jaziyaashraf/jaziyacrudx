@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-left: 350px;
+    
+   
+}
+.card{
+    position: relative;
+    margin-top: 60px;
+    margin-right: 50px;
+    
+    width:500px;
+}
+@media  screen and (max-width:768px){
+    .card img{
+        width:100;
+    }
+    .container{
+        max-width: 100%;
+        width:100%;
+    }
+    .col-md-3{
+        width:100%;
+        float:left;
+        margin:0;
+    }
+}
